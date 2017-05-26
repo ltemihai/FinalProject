@@ -1,0 +1,8 @@
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerServer\obj\Debug\InstantMessengerServer.csprojResolveAssemblyReference.cache
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerServer\bin\Debug\InstantMessengerServer.exe.config
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerServer\bin\Debug\InstantMessengerServer.exe
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerServer\bin\Debug\InstantMessengerServer.pdb
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerServer\bin\Debug\InstantMessengerInterfacesLibrary.dll
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerServer\bin\Debug\InstantMessengerInterfacesLibrary.pdb
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerServer\obj\Debug\InstantMessengerServer.exe
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerServer\obj\Debug\InstantMessengerServer.pdb

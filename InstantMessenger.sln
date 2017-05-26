@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantMessengerClient", "InstantMessengerClient\InstantMessengerClient.csproj", "{DD33491E-819C-423B-9984-88703657B510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantMessengerServer", "InstantMessengerServer\InstantMessengerServer.csproj", "{691C5922-6B94-4301-9F8A-8780327B4F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantMessengerInterfacesLibrary", "InstantMessengerInterfacesLibrary\InstantMessengerInterfacesLibrary.csproj", "{7C225D57-449C-47BE-8457-142D338AE824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD33491E-819C-423B-9984-88703657B510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD33491E-819C-423B-9984-88703657B510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD33491E-819C-423B-9984-88703657B510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD33491E-819C-423B-9984-88703657B510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691C5922-6B94-4301-9F8A-8780327B4F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691C5922-6B94-4301-9F8A-8780327B4F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691C5922-6B94-4301-9F8A-8780327B4F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691C5922-6B94-4301-9F8A-8780327B4F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C225D57-449C-47BE-8457-142D338AE824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C225D57-449C-47BE-8457-142D338AE824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C225D57-449C-47BE-8457-142D338AE824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C225D57-449C-47BE-8457-142D338AE824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+c:\users\darkm\documents\visual studio 2015\Projects\InstantMessenger\InstantMessengerClient\bin\Debug\InstantMessengerClient.exe.config
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\bin\Debug\InstantMessengerClient.exe
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\bin\Debug\InstantMessengerClient.pdb
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\InstantMessengerClient.csprojResolveAssemblyReference.cache
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\MainWindow.g.cs
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\App.g.cs
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\InstantMessengerClient_MarkupCompile.cache
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\InstantMessengerClient_MarkupCompile.lref
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\MainWindow.baml
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\InstantMessengerClient.g.resources
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\InstantMessengerClient.Properties.Resources.resources
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\InstantMessengerClient.csproj.GenerateResource.Cache
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\InstantMessengerClient.exe
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\obj\Debug\InstantMessengerClient.pdb
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\bin\Debug\InstantMessengerInterfacesLibrary.dll
+C:\Users\darkm\Documents\Visual Studio 2015\Projects\InstantMessenger\InstantMessengerClient\bin\Debug\InstantMessengerInterfacesLibrary.pdb
