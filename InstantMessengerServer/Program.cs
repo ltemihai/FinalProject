@@ -15,6 +15,7 @@ namespace InstantMessengerServer
                 host.Open();
                 Console.WriteLine("Server started");
                 Console.ReadLine();
+                Console.Beep();
             }
         }
     }
